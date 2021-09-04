@@ -22,7 +22,7 @@ export default function Model(props) {
   useEffect(() => {
     actions.EarthRotation.play();
     actions.RingRotation.play();
-  });
+  });         
 
   return (
     <group ref={group} {...props} dispose={null} onPointerOver={() => setHovered(true)} onPointerOut={() => setHovered(false)}>
