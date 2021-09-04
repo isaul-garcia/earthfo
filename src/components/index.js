@@ -1,0 +1,10 @@
+export { default as Navbar } from './Navbar/Navbar';
+export { default as InfoSection } from './InfoSection/InfoSection';
+export { default as Footer } from './Footer/Footer';
+export { default as RecuerdoRegistro } from './RecuerdoRegistro/RecuerdoRegistro';
+export { default as WelcomeSection } from './WelcomeSection/WelcomeSection';
+export { default as ImgGrid } from './ImgGrid/ImgGrid';
+export { default as Events } from './Events/Events';
+export { default as Statistics } from './Statistics/Statistics';
+export { default as Earth } from './Earth/Earth';
+export { default as Slider } from './Slider/Slider';

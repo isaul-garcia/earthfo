@@ -1,0 +1,36 @@
+.slider {
+    position: relative;
+    height: 80vh;
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: .6s ease;
+}
+
+.slide.active {
+    opacity: 1;
+    transition-duration: .6s;
+}
+
+.text {
+    z-index: 11;
+}
+
+.image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+}
