@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "https://isauljosue.github.io/earthfo",
+=======
+>>>>>>> b79e0f27f52135aebacdf467977b4640d6db1e7d
   "name": "earthfo",
   "version": "0.1.0",
   "private": true,
