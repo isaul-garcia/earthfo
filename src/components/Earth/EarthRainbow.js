@@ -19,6 +19,12 @@ export default function Model(props) {
    // Animate the selection halo
    const { scale } = useSpring({ scale: hovered ? [0.19,0.19,0.19] : [0.17, 0.17, 0.17]})
 
+  useEffect(() => {
+    actions.EarthRotation.play();
+    actions.RingRotation.play();
+  });
+
+  /*
   const animated = () => {
     actions.EarthRotation.play();
     actions.RingRotation.play();
@@ -31,6 +37,8 @@ export default function Model(props) {
     })
     return () => { isMounted = false }; // cleanup toggles value, if unmounted
   });   
+  */
+  
 
   return (
     <group ref={group} {...props} dispose={null} onPointerOver={() => setHovered(true)} onPointerOut={() => setHovered(false)}>
