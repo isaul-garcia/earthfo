@@ -1,5 +1,6 @@
 {
-  "name": "webmock-2",
+  "homepage": "https://isauljosue.github.io/earthfo",
+  "name": "earthfo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
