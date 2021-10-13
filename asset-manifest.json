@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/earthfo/static/css/main.83a45a39.chunk.css",
-    "main.js": "/earthfo/static/js/main.fa86e345.chunk.js",
-    "main.js.map": "/earthfo/static/js/main.fa86e345.chunk.js.map",
+    "main.js": "/earthfo/static/js/main.fce81ee4.chunk.js",
+    "main.js.map": "/earthfo/static/js/main.fce81ee4.chunk.js.map",
     "runtime-main.js": "/earthfo/static/js/runtime-main.dd5cb42d.js",
     "runtime-main.js.map": "/earthfo/static/js/runtime-main.dd5cb42d.js.map",
     "static/css/2.b7ed4950.chunk.css": "/earthfo/static/css/2.b7ed4950.chunk.css",
-    "static/js/2.e4e316fe.chunk.js": "/earthfo/static/js/2.e4e316fe.chunk.js",
-    "static/js/2.e4e316fe.chunk.js.map": "/earthfo/static/js/2.e4e316fe.chunk.js.map",
+    "static/js/2.c0e6a6f9.chunk.js": "/earthfo/static/js/2.c0e6a6f9.chunk.js",
+    "static/js/2.c0e6a6f9.chunk.js.map": "/earthfo/static/js/2.c0e6a6f9.chunk.js.map",
     "index.html": "/earthfo/index.html",
     "static/css/2.b7ed4950.chunk.css.map": "/earthfo/static/css/2.b7ed4950.chunk.css.map",
     "static/css/main.83a45a39.chunk.css.map": "/earthfo/static/css/main.83a45a39.chunk.css.map",
-    "static/js/2.e4e316fe.chunk.js.LICENSE.txt": "/earthfo/static/js/2.e4e316fe.chunk.js.LICENSE.txt",
+    "static/js/2.c0e6a6f9.chunk.js.LICENSE.txt": "/earthfo/static/js/2.c0e6a6f9.chunk.js.LICENSE.txt",
     "static/media/HEREONEARTH-01.93e7c60f.svg": "/earthfo/static/media/HEREONEARTH-01.93e7c60f.svg",
     "static/media/inter.css": "/earthfo/static/media/Inter.var.c2fe3cb2.woff2",
     "static/media/categ-home.png": "/earthfo/static/media/categ-home.d4a2d8bf.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd5cb42d.js",
     "static/css/2.b7ed4950.chunk.css",
-    "static/js/2.e4e316fe.chunk.js",
+    "static/js/2.c0e6a6f9.chunk.js",
     "static/css/main.83a45a39.chunk.css",
-    "static/js/main.fa86e345.chunk.js"
+    "static/js/main.fce81ee4.chunk.js"
   ]
 }
