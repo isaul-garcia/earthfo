@@ -13,7 +13,7 @@ function App() {
       <ScrollToTop />
       <Navbar />
       <Switch>
-        <Route path="/" exact component={Home} />  
+        <Route path="/earthfo" exact component={Home} />  
       </Switch>
       <Footer />
     </Router>

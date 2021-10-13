@@ -69,13 +69,13 @@ const Footer = () => {
                 <SocialMediaWrap>
                     <WebsiteRights>©2021 Earth I.O.</WebsiteRights>
                     <SocialIcons>
-                        <SocialIconLink href='/' target="_blank" aria-label="Instagram">
+                        <SocialIconLink href="/earthfo" target="_blank" aria-label="Instagram">
                             <RiInstagramLine />
                         </SocialIconLink>
-                        <SocialIconLink href='/' target="_blank" aria-label="Facebook">
+                        <SocialIconLink href="/earthfo" target="_blank" aria-label="Facebook">
                             <FiFacebook />
                         </SocialIconLink>
-                        <SocialIconLink href='/' target="_blank" aria-label="Twitter">
+                        <SocialIconLink href="/earthfo" target="_blank" aria-label="Twitter">
                             <HiOutlineMail />
                         </SocialIconLink>
                     </SocialIcons>

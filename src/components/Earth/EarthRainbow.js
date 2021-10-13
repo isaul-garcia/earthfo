@@ -18,26 +18,11 @@ export default function Model(props) {
    const [hovered, setHovered] = useState(false)
    // Animate the selection halo
    const { scale } = useSpring({ scale: hovered ? [0.19,0.19,0.19] : [0.17, 0.17, 0.17]})
-  /*
+  
   useEffect(() => {
     actions.EarthRotation.play();
     actions.RingRotation.play();
   });
-  */
- 
-  const animated = () => {
-    actions.EarthRotation.play();
-    actions.RingRotation.play();
-  }
-  
-  useEffect(() => {
-    let isMounted = true;               // note mutable flag
-    animated().then(data => {
-      if (isMounted) setState(data);    // add conditional check
-    })
-    return () => { isMounted = false }; // cleanup toggles value, if unmounted
-  });   
-  
 
   return (
     <group ref={group} {...props} dispose={null} onPointerOver={() => setHovered(true)} onPointerOut={() => setHovered(false)}>

@@ -43,7 +43,7 @@ const Navbar = () => {
         <IconContext.Provider value={{ size: 35 }}>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/">
+                    <NavLogo to="/earthfo">
                         <NavLogoImg  src={NavbarLogoFile} alt="logo" />
                         <NavFoundation isScroll={isScroll} src={RainbowFoundation} hide={true}/>
                     </NavLogo>
@@ -53,11 +53,11 @@ const Navbar = () => {
 
                     <NavMenu onClick={handleClick} click={click}>
                         <NavItem>
-                            <NavLink to='/'>Events</NavLink>
+                            <NavLink to="/earthfo">Events</NavLink>
                         </NavItem>
                     
                         <NavItem>
-                            <NavLink to='/'>About</NavLink>
+                            <NavLink to="/earthfo">About</NavLink>
                         </NavItem>
                     </NavMenu>
                 </NavbarContainer>
