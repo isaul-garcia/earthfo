@@ -45,7 +45,7 @@ const Footer = () => {
         <>
         <BottomGradient isScroll={isScroll}>
             <ForEarth isBottom={isBottom}>
-                <Earth />
+                {/* <Earth /> */}
             </ForEarth>
             <Waves src={Wave}/>
         </BottomGradient>

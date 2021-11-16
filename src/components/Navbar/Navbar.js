@@ -46,7 +46,7 @@ const Navbar = () => {
                     <NavLogo to="/earthfo">
                         <NavLogoImg  src={NavbarLogoFile} alt="logo" />
                         <NavFoundation isScroll={isScroll} src={RainbowFoundation} hide={true}/>
-                    </NavLogo>
+                    </NavLogo> 
                     <MobileIcon onClick={handleClick}>
                         {click ? <RiCloseLine /> : <RiMenuFill />}
                     </MobileIcon>

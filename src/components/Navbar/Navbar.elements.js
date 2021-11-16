@@ -129,7 +129,7 @@ text-align: center;
 
 export const NavItem = styled.li`
 border-right: 1px solid #000;
-transition: all 0.2s ease-in-out;
+transition: all 0.8s ease-in-out;
 height: 100px;
 
 &:first-child{
@@ -137,9 +137,7 @@ height: 100px;
 }
 
 &:hover{
-    background-color: #bbbbbb;
     border-bottom: 1px solid #000;
-    margin-bottom: -1px;
 }
 
 @media screen and (max-width: 960px) {
