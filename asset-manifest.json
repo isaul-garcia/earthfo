@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/earthfo/static/css/main.83a45a39.chunk.css",
-    "main.js": "/earthfo/static/js/main.e1d00922.chunk.js",
-    "main.js.map": "/earthfo/static/js/main.e1d00922.chunk.js.map",
+    "main.js": "/earthfo/static/js/main.36f48ae1.chunk.js",
+    "main.js.map": "/earthfo/static/js/main.36f48ae1.chunk.js.map",
     "runtime-main.js": "/earthfo/static/js/runtime-main.dd5cb42d.js",
     "runtime-main.js.map": "/earthfo/static/js/runtime-main.dd5cb42d.js.map",
     "static/css/2.b7ed4950.chunk.css": "/earthfo/static/css/2.b7ed4950.chunk.css",
-    "static/js/2.c0e6a6f9.chunk.js": "/earthfo/static/js/2.c0e6a6f9.chunk.js",
-    "static/js/2.c0e6a6f9.chunk.js.map": "/earthfo/static/js/2.c0e6a6f9.chunk.js.map",
+    "static/js/2.97baf041.chunk.js": "/earthfo/static/js/2.97baf041.chunk.js",
+    "static/js/2.97baf041.chunk.js.map": "/earthfo/static/js/2.97baf041.chunk.js.map",
     "index.html": "/earthfo/index.html",
     "static/css/2.b7ed4950.chunk.css.map": "/earthfo/static/css/2.b7ed4950.chunk.css.map",
     "static/css/main.83a45a39.chunk.css.map": "/earthfo/static/css/main.83a45a39.chunk.css.map",
-    "static/js/2.c0e6a6f9.chunk.js.LICENSE.txt": "/earthfo/static/js/2.c0e6a6f9.chunk.js.LICENSE.txt",
+    "static/js/2.97baf041.chunk.js.LICENSE.txt": "/earthfo/static/js/2.97baf041.chunk.js.LICENSE.txt",
+    "static/media/EarthRainbow.050c0887.glb": "/earthfo/static/media/EarthRainbow.050c0887.glb",
     "static/media/HEREONEARTH-01.93e7c60f.svg": "/earthfo/static/media/HEREONEARTH-01.93e7c60f.svg",
     "static/media/inter.css": "/earthfo/static/media/Inter.var.c2fe3cb2.woff2",
-    "static/media/categ-home.png": "/earthfo/static/media/categ-home.d4a2d8bf.png",
     "static/media/fearth-01-01.d3a2c186.svg": "/earthfo/static/media/fearth-01-01.d3a2c186.svg",
     "static/media/ftext-01-01.f1c954a9.svg": "/earthfo/static/media/ftext-01-01.f1c954a9.svg",
     "static/media/logo2.c781868d.png": "/earthfo/static/media/logo2.c781868d.png",
     "static/media/logo4.cf6dbd54.png": "/earthfo/static/media/logo4.cf6dbd54.png",
-    "static/media/logo5.de2cec56.png": "/earthfo/static/media/logo5.de2cec56.png",
+    "static/media/logo5.png": "/earthfo/static/media/logo5.de2cec56.png",
     "static/media/logo8.3842847a.png": "/earthfo/static/media/logo8.3842847a.png",
     "static/media/rainbow-foundation.967a47cb.svg": "/earthfo/static/media/rainbow-foundation.967a47cb.svg",
     "static/media/wave9-01.2ccbf806.svg": "/earthfo/static/media/wave9-01.2ccbf806.svg"
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.dd5cb42d.js",
     "static/css/2.b7ed4950.chunk.css",
-    "static/js/2.c0e6a6f9.chunk.js",
+    "static/js/2.97baf041.chunk.js",
     "static/css/main.83a45a39.chunk.css",
-    "static/js/main.e1d00922.chunk.js"
+    "static/js/main.36f48ae1.chunk.js"
   ]
 }
