@@ -61,5 +61,5 @@ export const homeObjThree = {
 };
 
 export const gridObject = {
-    gridImage: require('../../assets/categ-home.png').default,
+    gridImage: require('../../assets/logo5.png').default,
 };

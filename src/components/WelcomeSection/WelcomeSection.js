@@ -21,6 +21,11 @@ const backDrop =[
         subtitle: "Photographer Benny Diaz gives us a look at the young shorebirds.",
         image: "https://i.imgur.com/6k13mvm.jpg"
     },
+    {
+        title: "Amazonia on fire",
+        subtitle: "Fires in the Amazonas could get worse.",
+        image: "https://miro.medium.com/max/3840/1*CrwrNJqv3ypn20yURYEz0Q.jpeg"
+    },
 ];
 
 const Welcome = () => {

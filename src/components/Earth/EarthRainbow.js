@@ -4,14 +4,16 @@
 
 import React, { useRef, useEffect, useState } from "react";
 import { useGLTF } from "@react-three/drei/useGLTF";
-
+import { useLoader  } from "react-three-fiber";
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { useAnimations } from "@react-three/drei/useAnimations";
 import { a, useSpring } from "@react-spring/three";
 
+import model from '../../assets/EarthRainbow.glb';
 
 export default function Model(props) { 
   const group = useRef();
-  const { nodes, materials, animations } = useGLTF("/EarthRainbow.glb");
+  const { nodes, materials, animations } = useLoader(GLTFLoader, model);
   const { actions } = useAnimations(animations, group);
 
    // Hover and animation-index states
