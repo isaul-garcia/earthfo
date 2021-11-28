@@ -140,7 +140,7 @@ margin-top: 40px;
 z-index: 12;
 float: left;
 margin-left: 11.75vw;
-pointer-events: all;
+pointer-events: none;
 transition: all .3s ease-in-out;
 opacity: ${({isBottom}) => (isBottom ? '0' : '1')};
 
