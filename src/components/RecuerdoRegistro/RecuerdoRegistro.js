@@ -17,7 +17,7 @@ const Recuerdo = () => {
                 <FooterSubText></FooterSubText>
                 <Form>
                     <FormInput name="email" type="email" placeholder="Your email" />
-                    <Button primary fontBig>Registrate</Button>
+                    <Button primary fontBig>Register</Button>
                 </Form>
             </FooterSubscription>
         </FooterContainer>
